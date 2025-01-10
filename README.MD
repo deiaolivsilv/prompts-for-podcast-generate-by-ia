@@ -5,7 +5,7 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- Leonardo AI](https://leonardo.ai)
+- [Leonardo AI](https://leonardo.ai)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
